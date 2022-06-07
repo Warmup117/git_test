@@ -1,2 +1,3 @@
 # git_test
-REPO1
+My first github repo!
+hello Odin!
